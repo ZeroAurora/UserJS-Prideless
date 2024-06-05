@@ -19,7 +19,7 @@ const pridelessCSS = `
 }
 
 .homepage-hero section p > span::after {
-	height: 0 !important;
+  height: 0 !important;
 }
 `;
 

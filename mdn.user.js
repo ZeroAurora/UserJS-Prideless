@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name        Prideless MDN
-// @name:zh-CN  Prideless MDN
-// @namespace   https://github.com/ZeroAurora
-// @match       https://developer.mozilla.org/*
-// @version     1.0
-// @author      Whoever but not LGBTQIA+
-// @description Remove the pride from MDN
-// @homepageURL https://github.com/ZeroAurora/UserJS-Prideless
-// @license     WTFPL
-// @grant       GM_addStyle
-// @run-at      document-start
+// @name              Prideless MDN
+// @name:zh-CN        Prideless MDN
+// @namespace         https://github.com/ZeroAurora
+// @match             https://developer.mozilla.org/*
+// @version           1.0
+// @author            Whoever but not LGBTQIA+
+// @description       Remove the pride from MDN
+// @description:zh-CN 去除 MDN 的 Pride Month 宣传
+// @homepageURL       https://github.com/ZeroAurora/UserJS-Prideless
+// @license           WTFPL
+// @grant             GM_addStyle
+// @run-at            document-start
 // ==/UserScript==
 
 const pridelessCSS = `
